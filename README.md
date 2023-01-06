@@ -1,0 +1,1 @@
+This is a YouTube clone application where we strive to practice react concepts and understand the functioning of applications like YouTube.
